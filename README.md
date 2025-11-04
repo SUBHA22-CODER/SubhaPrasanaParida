@@ -20,9 +20,14 @@
 ---
 
 ### 📊 GitHub Analytics  
-![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhaPrasanaParida&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhaPrasanaParida&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=SubhaPrasanaParida&theme=radical)
+![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUBHA22-CODER&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHA22-CODER&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=SUBHA22-CODER&theme=radical)
+
+---
+
+### 🔥 Contribution Graph  
+![Subha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SUBHA22-CODER&theme=react-dark&hide_border=true)
 
 ---
 
@@ -32,8 +37,9 @@
 ---
 
 ### 👀 Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=SubhaPrasanaParida&style=flat-square&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=SUBHA22-CODER&style=flat-square&color=blue)
 
 ---
 
 ⭐ *"Don’t chase perfection — chase progress. The masterpiece forms while you’re still learning."*
+
